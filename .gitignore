@@ -1,0 +1,9 @@
+kaggle_data
+*.ft
+*.json
+*.txt
+*.jsonl
+*.h5
+data
+.idea
+.ipynb_checkpoints
